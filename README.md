@@ -5,3 +5,7 @@ Employee attrition can have a significant impact on an organization's bottom lin
 The project will begin by providing a statistical analysis to identify patterns and trends in the data. An exploration of the factors contributing to staff attrition and an assessment of the current retention strategies in place will be presented. In addition, the report will describe the development of the predictive model, including the modeling approach used, the data preparation steps taken, and the results of model evaluation.
 
 the project will conclude with a summary of the main findings and key recommendations for the organization. These recommendations will include suggestions for improving current retention strategies and implementing the predictive model to proactively identify employees who are at high risk of leaving.
+
+- Dashboards : https://github.com/Muhannad0101/HR-Data-Analysis-and-Predicting-of-Employee-Attrition/blob/main/dashboards.pdf
+- jupyter notebook : https://github.com/Muhannad0101/HR-Data-Analysis-and-Predicting-of-Employee-Attrition/blob/main/EDA-and-predicting-employee-attrition.ipynb
+- Machine Learning application : https://github.com/Muhannad0101/HR-Data-Analysis-and-Predicting-of-Employee-Attrition/blob/main/app.py
