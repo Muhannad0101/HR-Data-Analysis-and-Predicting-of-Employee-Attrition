@@ -9,8 +9,10 @@ The project will begin by providing a statistical analysis to identify patterns 
 
 the project will conclude with a summary of the main findings and key recommendations for the organization. These recommendations will include suggestions for improving current retention strategies and implementing the predictive model to proactively identify employees who are at high risk of leaving.
 
-- Dashboards : https://github.com/Muhannad0101/HR-Data-Analysis-and-Predicting-of-Employee-Attrition/blob/main/dashboards.pdf
+- 'Dashboards' : https://github.com/Muhannad0101/HR-Data-Analysis-and-Predicting-of-Employee-Attrition/blob/main/dashboards.pdf
 
-- jupyter notebook : https://github.com/Muhannad0101/HR-Data-Analysis-and-Predicting-of-Employee-Attrition/blob/main/EDA-and-predicting-employee-attrition.ipynb
+- 'jupyter notebook' : https://github.com/Muhannad0101/HR-Data-Analysis-and-Predicting-of-Employee-Attrition/blob/main/EDA-and-predicting-employee-attrition.ipynb
 
-- Machine Learning application : https://github.com/Muhannad0101/HR-Data-Analysis-and-Predicting-of-Employee-Attrition/blob/main/app.py
+- 'Machine Learning application' : https://github.com/Muhannad0101/HR-Data-Analysis-and-Predicting-of-Employee-Attrition/blob/main/app.py
+
+- 'Final Report' : https://github.com/Muhannad0101/HR-Data-Analysis-and-Predicting-of-Employee-Attrition/blob/main/final%20report.pdf
